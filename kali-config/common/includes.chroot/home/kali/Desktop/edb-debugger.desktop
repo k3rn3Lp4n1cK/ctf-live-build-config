@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=edb-debugger
+Comment=
+Exec=edb
+Icon=kali-edb-debugger
+Path=
+Terminal=false
+StartupNotify=false

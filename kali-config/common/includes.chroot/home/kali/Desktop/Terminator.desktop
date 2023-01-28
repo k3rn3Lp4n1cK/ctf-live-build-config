@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Terminator
+Comment=Multiple terminals in one window
+Exec=terminator
+Icon=terminator
+Path=
+Terminal=false
+StartupNotify=true

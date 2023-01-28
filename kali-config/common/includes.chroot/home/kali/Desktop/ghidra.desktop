@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ghidra
+Comment=
+Exec=/opt/ghidra_10.2.2_PUBLIC/ghidraRun
+Icon=kali-ghidra
+Terminal=false
+StartupNotify=false

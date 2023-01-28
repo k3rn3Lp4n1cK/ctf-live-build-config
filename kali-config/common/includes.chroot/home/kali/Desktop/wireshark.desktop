@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=wireshark
+Comment=Interactively dump and analyze network traffic
+Exec=sh -c "$(id -Gn | grep -q wireshark || echo pkexec) wireshark %f"
+Icon=kali-wireshark
+Path=
+Terminal=false
+StartupNotify=false

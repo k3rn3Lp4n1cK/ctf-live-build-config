@@ -1,0 +1,1 @@
+firefox.settings.services.mozilla.com:HSTS	0	19384	1706392862351,1,0,2

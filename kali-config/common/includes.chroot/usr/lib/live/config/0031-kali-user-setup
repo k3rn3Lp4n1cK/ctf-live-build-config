@@ -47,6 +47,7 @@ configure_usergroups
 
 # Change ownership of custom kali user files
 chown -R kali:kali /home/kali/*
+chown -R kali:kali /home/kali/.mozilla
 
 # Remember that this script has been run
 touch /var/lib/live/config/kali-user-setup

@@ -5,7 +5,7 @@ sudo ./build.sh -v --live --version ctf
 
 # DD image to a usb stick /dev/sdb
 STICK=/dev/sdb
-sudo dd if=./images/kali-linux-ctfkali-live-amd64.iso of=$STICK conv=fsync bs=4M status=progress
+sudo dd if=./images/kali-linux-ctf-live-amd64.iso of=$STICK conv=fsync bs=4M status=progress
 
 # Cleanup
 sudo ./build.sh --clean && sudo rm -fr .build build.log config images

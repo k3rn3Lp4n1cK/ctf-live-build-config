@@ -2,8 +2,3 @@
 
 apt -y remove desktop-base tango-icon-theme xorg
 apt -y autoremove
-gio set -t string /home/kali/Desktop/burpsuite.desktop metadata::xfce-exe-checksum "$(sha256sum /home/kali/Desktop/burpsuite.desktop | awk '{print $1}')"
-gio set -t string /home/kali/Desktop/edb-debugger.desktop metadata::xfce-exe-checksum "$(sha256sum /home/kali/Desktop/edb-debugger.desktop | awk '{print $1}')"
-gio set -t string /home/kali/Desktop/ghidra.desktop metadata::xfce-exe-checksum "$(sha256sum /home/kali/Desktop/ghidra.desktop | awk '{print $1}')"
-gio set -t string /home/kali/Desktop/Terminator.desktop metadata::xfce-exe-checksum "$(sha256sum /home/kali/Desktop/Terminator.desktop | awk '{print $1}')"
-gio set -t string /home/kali/Desktop/wireshark.desktop metadata::xfce-exe-checksum "$(sha256sum /home/kali/Desktop/wireshark.desktop | awk '{print $1}')"

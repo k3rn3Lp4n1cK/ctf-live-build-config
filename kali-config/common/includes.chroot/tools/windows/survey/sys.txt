@@ -1,0 +1,55 @@
+Host Name:                 MS01
+OS Name:                   Microsoft Windows 10 Pro
+OS Version:                10.0.19044 N/A Build 19044
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Member Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          offsec
+Registered Organization:   
+Product ID:                00331-10000-00001-AA247
+Original Install Date:     3/25/2022, 6:55:24 AM
+System Boot Time:          3/2/2023, 9:10:48 AM
+System Manufacturer:       VMware, Inc.
+System Model:              VMware7,1
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: AMD64 Family 25 Model 1 Stepping 1 AuthenticAMD ~2650 Mhz
+BIOS Version:              VMware, Inc. VMW71.00V.18227214.B64.2106252220, 6/25/2021
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
+Total Physical Memory:     4,095 MB
+Available Physical Memory: 2,501 MB
+Virtual Memory: Max Size:  7,039 MB
+Virtual Memory: Available: 2,562 MB
+Virtual Memory: In Use:    4,477 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    oscp.exam
+Logon Server:              N/A
+Hotfix(s):                 10 Hotfix(s) Installed.
+                           [01]: KB5013624
+                           [02]: KB4562830
+                           [03]: KB4570334
+                           [04]: KB4577586
+                           [05]: KB4580325
+                           [06]: KB4586864
+                           [07]: KB5003791
+                           [08]: KB5019959
+                           [09]: KB5011352
+                           [10]: KB5018506
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: vmxnet3 Ethernet Adapter
+                                 Connection Name: Ethernet0
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.215.141
+                           [02]: vmxnet3 Ethernet Adapter
+                                 Connection Name: Ethernet1
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 10.10.105.141
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+

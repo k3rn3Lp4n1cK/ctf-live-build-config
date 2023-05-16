@@ -13,7 +13,7 @@ sudo dd if=./images/kali-linux-ctf-live-amd64.iso of=$STICK conv=fsync bs=4M sta
 # Cleanup
 sudo ./build.sh --clean && sudo rm -fr .build build.log config images
 ```
-## Follow these directions if you want some of that encrypted persistent live image action
+### Follow these directions if you want some of that encrypted persistent live image action
 https://www.kali.org/docs/usb/usb-persistence-encryption/
 
 ## live-build configuration for Kali ISO images Documentation

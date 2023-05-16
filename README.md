@@ -1,5 +1,8 @@
 # Custom Kali Live CTF Image
 ```bash
+# Install dependencies
+sudo apt install -y live-build simple-cdd cdebootstrap curl
+
 # Build an image
 sudo ./build.sh -v --live --version ctf
 
